@@ -630,7 +630,7 @@ CSS interpretation
   is used.
 
 Optimizations and Performance
--------------
+-----------------------------
 
 * Modern browser engines incorporate optimizations such as incremental rendering, 
   where only parts of the page that have changed are re-rendered, improving performance 
